@@ -72,7 +72,7 @@ dependencies {
     implementation(project(":lib-common-util"))
     implementation(project(":lib-logging"))
     implementation(project(":lib-androidx-wearable"))
-
+    implementation(project(":lib-unofficialtileapi"))
     implementation(project(":common"))
 
     implementation(Dependencies.Kotlin.Coroutines.core)
